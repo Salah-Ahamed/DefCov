@@ -1,0 +1,214 @@
+.navbar {
+	width: 100%;
+	height: 70px;
+	background-color: #4d3bb1;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navbar h1 {
+	color: white;
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+.rebtn1 {
+	border: none;
+	outline: none;
+	
+
+	position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 1px;
+    width: 6%;
+    height: 40px;
+    left: 32%;
+    top: 65%;
+    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 42px;
+    
+    background: white;
+    border-radius: 6px;
+}
+.rebtn2 {
+	border: none;
+	outline: none;
+	
+
+	position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 1px;
+    width: 6%;
+    height: 40px;
+    left: 41.5%;
+    top: 65%;
+    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 42px;
+    
+    background: white;
+    border-radius: 6px;
+}
+.rebtn3 {
+	border: none;
+	outline: none;
+	
+
+	position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 1px;
+    width: 6%;
+    height: 40px;
+    left: 50.5%;
+    top: 65%;
+    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 42px;
+    
+    background: white;
+    border-radius: 6px;
+}
+.rebtn4 {
+	border: none;
+	outline: none;
+	
+
+	position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1px 1px;
+    width: 6%;
+    height: 40px;
+    left: 60%;
+    top: 65%;
+    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 42px;
+    
+    background: white;
+    border-radius: 6px;
+}
+
+  .animationbox{
+    position: absolute;
+    top:33%;
+    left:32%;
+    
+  }
+  .chbackground{
+    position: relative;
+  width: 1518px;
+  height: 730px;  
+  background: linear-gradient(180deg, #CCC1ED 0%, #A1B3FF 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  backdrop-filter: blur(4px);
+  
+  }
+  .ch2line1{
+    color: white;
+    position: absolute;
+  left: 30%;
+  
+  top: 10%;
+  bottom: 38.18%;
+  }
+  .chbtn1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 16px;
+    
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left: 640px;
+    top: 400px;
+    font-size: 20px;
+    border-color: black;
+    background:transparent;
+    border-radius: 6px;
+    text-align: center;
+  }
+  .chbtn2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 16px;
+    
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left:740px;
+    top: 400px;
+    font-size: 20px;
+    border-color: black;
+    background:transparent;
+    border-radius: 6px;
+    text-align: center;
+  }
+  .chbtn3{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  padding: 1px 1px;
+  border-color: black;
+  position: absolute;
+  left: 690px;
+  font-size: 20px;
+  top: 500px;
+  
+  height:40px;
+  width:100px;
+  
+  background: #FFFFFF;
+  border-radius: 6px;
+  
+  }
+  .audiobox{
+    position: absolute;
+    left:570px;
+    top:22%
+
+  }
+  .chimg2{
+    position: absolute;
+    left: -20.01%;
+    right: 37.5%;
+    top: -30.2%;
+    bottom: 12.3%;
+    width: 600px;
+    height: 500px;
+    
+  }
+  .chimg3{
+    position: absolute;
+    right: -20.01%;
+    left: 60%;
+    bottom: -0.2%;
+    top: 30%;
+    width: 600px;
+    height: 500px;
+    
+  }

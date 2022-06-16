@@ -1,0 +1,26 @@
+.title {
+  text-align: center;
+}
+
+.form {
+  border: solid black 1px;
+}
+
+.elem {
+  overflow: hidden;
+  display: inline-block;
+  width: 150px;
+  height: 20px;
+}
+
+.charts {
+  text-align: center;
+  background: linear-gradient(180deg, #CCC1ED 0%, #A1B3FF 100%);
+  background-size: cover;
+}
+
+.chart {
+  border: solid #589636 1px;
+  margin: 5px;
+  display: inline-block;
+}
